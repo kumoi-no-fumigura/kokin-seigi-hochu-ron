@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-seigi-hochu-ron",
  "yomi": "こきんしゅうせいぎそうろんほちゅうろん",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈書（論難と弁駁）",
+  "era": "弘化2年（1845）頃",
+  "author": "論 八田知紀（1799〜1873）／弁 熊谷直好（1782〜1862）",
+  "desc": "熊谷直好の「古今集正義総論補註」に八田知紀が論難を加え、さらに直好が弁駁したもの。同じ桂園門の二人が、古今集の評価などをめぐって論じ合う。"
+ },
  "editions": [
   {
    "pid": "993383",
